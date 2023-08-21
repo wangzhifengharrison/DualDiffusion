@@ -102,7 +102,8 @@ python main_gl_3d_fphab_new.py --mode test --data all --joints 21 --input_n 10 -
 # Acknowledgments
 
 The overall code framework (dataloading, training, testing etc.) was adapted from [HRIS](https://github.com/wei-mao-2019/HisRepItself).
-The base of the diffusion was borrowed from [CSDI](https://github.com/ermongroup/CSDI).
+
+[//]: # (The base of the diffusion was borrowed from [CSDI]&#40;https://github.com/ermongroup/CSDI&#41;.)
 
 [//]: # (## Citation)
 
