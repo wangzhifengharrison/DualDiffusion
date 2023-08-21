@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+model_l_bighand
+model_l_fphab
+model_l_msra
+weights_ablation
+ablation_main
+model_s_bighand
+model_s_fphab
+model_s_msra
+models
+ours_run_train_msra.sh
+ours_run_train_fphab.sh
+ours_run_train_bighand.sh
+ours_run_train_msra_coarse_fined.sh
+
+
