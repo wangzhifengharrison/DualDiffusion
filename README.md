@@ -34,8 +34,14 @@ approach in accurately forecasting 3D hand postures
 compared to previous methods.
 
 </br>
+<div>
+The Dual-diffusion paradigm introduced in this study embodies a distinctive neural network architecture designed to concurrently acquire both local
+and global representations. This architectural configuration incorporates Global and Local Diffusion (GLD) blocks, strategically engineered to enable the
+seamless diffusion of information between localized and overarching features.
+</div>
 
-# Getting started
+<img src="images/architecture_figure.jpg">
+##Getting started
 
 ## Requirements
 The code requires Python 3.9 or later. The file [requirements.txt](requirements.txt) contains the full list of required Python modules.
